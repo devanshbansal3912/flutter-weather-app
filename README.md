@@ -55,17 +55,6 @@ weather_app/
 
 ---
 
-## 📸 Screenshots
-
-<!-- Add your screenshots here -->
-| Dashboard Overview | Hourly Forecast & Details |
-|:---:|:---:|
-| *(Add your screenshot here)* | *(Add your screenshot here)* |
-
-> *Tip: To display your app screenshots, upload images to an `assets/screenshots/` directory or paste image URLs here.*
-
----
-
 ## 🔑 API Configuration & Setup
 
 This application connects to the OpenWeatherMap API to retrieve weather forecasts.
@@ -117,9 +106,3 @@ This application connects to the OpenWeatherMap API to retrieve weather forecast
    ```bash
    flutter run
    ```
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE) or standard project terms.
